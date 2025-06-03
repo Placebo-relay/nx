@@ -1,6 +1,7 @@
 # nx
 nx
-"""
+
+```python
 import networkx as nx
 import matplotlib.pyplot as plt
 
@@ -36,4 +37,5 @@ nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels)
 
 # Show the plot
 plt.title("Directed Graph with Capacities")
-plt.show()"""
+plt.show()
+```
