@@ -1,6 +1,6 @@
 # nx
-nx
 
+maxflow 2783
 ```python
 import networkx as nx
 import matplotlib.pyplot as plt
