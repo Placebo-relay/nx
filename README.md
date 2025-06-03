@@ -1,5 +1,5 @@
 # nx
-
+%pip install -q networkx
 ### maxflow 2783
 ```python
 import networkx as nx
